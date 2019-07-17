@@ -1,0 +1,1 @@
+This is a script to monitor the Ping drop rate
